@@ -3,7 +3,6 @@ import org.apache.logging.log4j.Logger;
 
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
 public class Calc {
 
     private static final Logger logger = LogManager.getLogger(Calc.class);
@@ -69,9 +68,9 @@ public class Calc {
                 case 4:
                     double num2;
                     try {
-                        System.out.print("Enter the first number : ");
+                        System.out.print("Enter the Base : ");
                         num = scanner.nextDouble();
-                        System.out.print("Enter the second number : ");
+                        System.out.print("Enter the Exponent : ");
                         num2 = scanner.nextDouble();
                     } catch (InputMismatchException error) {
                         logger.error("Invalid input");

@@ -86,3 +86,311 @@
 16/Mar/2021:23:18:34 087 [Calc.java] [INFO] Calc [Result-Power] : 4.0
 16/Mar/2021:23:18:34 087 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
 16/Mar/2021:23:18:34 087 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+16/Mar/2021:23:25:54 574 [Calc.java] [INFO] Calc [Factorial] 3.0
+16/Mar/2021:23:25:54 577 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+16/Mar/2021:23:25:54 578 [Calc.java] [INFO] Calc [Factorial] 5.0
+16/Mar/2021:23:25:54 578 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+16/Mar/2021:23:25:54 579 [Calc.java] [INFO] Calc [SqRoot]9.0
+16/Mar/2021:23:25:54 580 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.0
+16/Mar/2021:23:25:54 580 [Calc.java] [INFO] Calc [SqRoot]16.0
+16/Mar/2021:23:25:54 580 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+16/Mar/2021:23:25:54 581 [Calc.java] [INFO] Calc [SqRoot]-10.0
+16/Mar/2021:23:25:54 581 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+16/Mar/2021:23:25:54 581 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+16/Mar/2021:23:25:54 582 [Calc.java] [INFO] Calc [Natural Log] 17.0
+16/Mar/2021:23:25:54 582 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.833213344056216
+16/Mar/2021:23:25:54 583 [Calc.java] [INFO] Calc [Natural Log] 6.0
+16/Mar/2021:23:25:54 583 [Calc.java] [INFO] Calc [Result-NaturalLog] : 1.791759469228055
+16/Mar/2021:23:25:54 583 [Calc.java] [INFO] Calc [Natural Log] 0.0
+16/Mar/2021:23:25:54 584 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+16/Mar/2021:23:25:54 584 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+16/Mar/2021:23:25:54 584 [Calc.java] [INFO] Calc [SqRoot]10.0
+16/Mar/2021:23:25:54 585 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.1622776601683795
+16/Mar/2021:23:25:54 585 [Calc.java] [INFO] Calc [SqRoot]16.0
+16/Mar/2021:23:25:54 585 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+16/Mar/2021:23:25:54 586 [Calc.java] [INFO] Calc [SqRoot]-16.0
+16/Mar/2021:23:25:54 586 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+16/Mar/2021:23:25:54 586 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+16/Mar/2021:23:25:54 586 [Calc.java] [INFO] Calc [Natural Log] 14.0
+16/Mar/2021:23:25:54 587 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.6390573296152584
+16/Mar/2021:23:25:54 587 [Calc.java] [INFO] Calc [Natural Log] 9.0
+16/Mar/2021:23:25:54 587 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.1972245773362196
+16/Mar/2021:23:25:54 588 [Calc.java] [INFO] Calc [Natural Log] 0.0
+16/Mar/2021:23:25:54 588 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+16/Mar/2021:23:25:54 588 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+16/Mar/2021:23:25:54 589 [Calc.java] [INFO] Calc [Factorial] 3.0
+16/Mar/2021:23:25:54 589 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+16/Mar/2021:23:25:54 590 [Calc.java] [INFO] Calc [Factorial] 5.0
+16/Mar/2021:23:25:54 590 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+16/Mar/2021:23:25:54 590 [Calc.java] [INFO] Calc [Power]2.0 and 3.0
+16/Mar/2021:23:25:54 591 [Calc.java] [INFO] Calc [Result-Power] : 8.0
+16/Mar/2021:23:25:54 591 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+16/Mar/2021:23:25:54 591 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+16/Mar/2021:23:25:54 592 [Calc.java] [INFO] Calc [Power]2.0 and 2.0
+16/Mar/2021:23:25:54 592 [Calc.java] [INFO] Calc [Result-Power] : 4.0
+16/Mar/2021:23:25:54 592 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+16/Mar/2021:23:25:54 593 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:00:41:14 162 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:00:41:14 166 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:00:41:14 166 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:00:41:14 167 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:00:41:14 167 [Calc.java] [INFO] Calc [SqRoot]9.0
+17/Mar/2021:00:41:14 168 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.0
+17/Mar/2021:00:41:14 168 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:00:41:14 169 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:00:41:14 169 [Calc.java] [INFO] Calc [SqRoot]-10.0
+17/Mar/2021:00:41:14 169 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:00:41:14 170 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:00:41:14 171 [Calc.java] [INFO] Calc [Natural Log] 17.0
+17/Mar/2021:00:41:14 171 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.833213344056216
+17/Mar/2021:00:41:14 171 [Calc.java] [INFO] Calc [Natural Log] 6.0
+17/Mar/2021:00:41:14 172 [Calc.java] [INFO] Calc [Result-NaturalLog] : 1.791759469228055
+17/Mar/2021:00:41:14 172 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:00:41:14 173 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:00:41:14 173 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:00:41:14 174 [Calc.java] [INFO] Calc [SqRoot]10.0
+17/Mar/2021:00:41:14 174 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.1622776601683795
+17/Mar/2021:00:41:14 174 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:00:41:14 175 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:00:41:14 175 [Calc.java] [INFO] Calc [SqRoot]-16.0
+17/Mar/2021:00:41:14 175 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:00:41:14 176 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:00:41:14 176 [Calc.java] [INFO] Calc [Natural Log] 14.0
+17/Mar/2021:00:41:14 176 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.6390573296152584
+17/Mar/2021:00:41:14 177 [Calc.java] [INFO] Calc [Natural Log] 9.0
+17/Mar/2021:00:41:14 177 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.1972245773362196
+17/Mar/2021:00:41:14 177 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:00:41:14 178 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:00:41:14 178 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:00:41:14 178 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:00:41:14 179 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:00:41:14 179 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:00:41:14 179 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:00:41:14 180 [Calc.java] [INFO] Calc [Power]2.0 and 3.0
+17/Mar/2021:00:41:14 180 [Calc.java] [INFO] Calc [Result-Power] : 8.0
+17/Mar/2021:00:41:14 181 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:00:41:14 181 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:00:41:14 181 [Calc.java] [INFO] Calc [Power]2.0 and 2.0
+17/Mar/2021:00:41:14 182 [Calc.java] [INFO] Calc [Result-Power] : 4.0
+17/Mar/2021:00:41:14 182 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:00:41:14 182 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:00:47:14 151 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:00:47:14 154 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:00:47:14 155 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:00:47:14 156 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:00:47:14 156 [Calc.java] [INFO] Calc [SqRoot]9.0
+17/Mar/2021:00:47:14 157 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.0
+17/Mar/2021:00:47:14 157 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:00:47:14 158 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:00:47:14 158 [Calc.java] [INFO] Calc [SqRoot]-10.0
+17/Mar/2021:00:47:14 159 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:00:47:14 159 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:00:47:14 159 [Calc.java] [INFO] Calc [Natural Log] 17.0
+17/Mar/2021:00:47:14 160 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.833213344056216
+17/Mar/2021:00:47:14 160 [Calc.java] [INFO] Calc [Natural Log] 6.0
+17/Mar/2021:00:47:14 160 [Calc.java] [INFO] Calc [Result-NaturalLog] : 1.791759469228055
+17/Mar/2021:00:47:14 161 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:00:47:14 161 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:00:47:14 161 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:00:47:14 162 [Calc.java] [INFO] Calc [SqRoot]10.0
+17/Mar/2021:00:47:14 162 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.1622776601683795
+17/Mar/2021:00:47:14 163 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:00:47:14 163 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:00:47:14 163 [Calc.java] [INFO] Calc [SqRoot]-16.0
+17/Mar/2021:00:47:14 164 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:00:47:14 164 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:00:47:14 164 [Calc.java] [INFO] Calc [Natural Log] 14.0
+17/Mar/2021:00:47:14 165 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.6390573296152584
+17/Mar/2021:00:47:14 165 [Calc.java] [INFO] Calc [Natural Log] 9.0
+17/Mar/2021:00:47:14 166 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.1972245773362196
+17/Mar/2021:00:47:14 166 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:00:47:14 167 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:00:47:14 167 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:00:47:14 168 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:00:47:14 168 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:00:47:14 168 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:00:47:14 168 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:00:47:14 169 [Calc.java] [INFO] Calc [Power]2.0 and 3.0
+17/Mar/2021:00:47:14 169 [Calc.java] [INFO] Calc [Result-Power] : 8.0
+17/Mar/2021:00:47:14 170 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:00:47:14 170 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:00:47:14 170 [Calc.java] [INFO] Calc [Power]2.0 and 2.0
+17/Mar/2021:00:47:14 170 [Calc.java] [INFO] Calc [Result-Power] : 4.0
+17/Mar/2021:00:47:14 171 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:00:47:14 171 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:00:48:03 230 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:00:48:03 235 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:00:48:03 235 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:00:48:03 236 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:00:48:03 237 [Calc.java] [INFO] Calc [SqRoot]9.0
+17/Mar/2021:00:48:03 238 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.0
+17/Mar/2021:00:48:03 238 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:00:48:03 238 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:00:48:03 239 [Calc.java] [INFO] Calc [SqRoot]-10.0
+17/Mar/2021:00:48:03 239 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:00:48:03 239 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:00:48:03 240 [Calc.java] [INFO] Calc [Natural Log] 17.0
+17/Mar/2021:00:48:03 240 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.833213344056216
+17/Mar/2021:00:48:03 241 [Calc.java] [INFO] Calc [Natural Log] 6.0
+17/Mar/2021:00:48:03 241 [Calc.java] [INFO] Calc [Result-NaturalLog] : 1.791759469228055
+17/Mar/2021:00:48:03 241 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:00:48:03 242 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:00:48:03 242 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:00:48:03 243 [Calc.java] [INFO] Calc [SqRoot]10.0
+17/Mar/2021:00:48:03 243 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.1622776601683795
+17/Mar/2021:00:48:03 244 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:00:48:03 244 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:00:48:03 245 [Calc.java] [INFO] Calc [SqRoot]-16.0
+17/Mar/2021:00:48:03 245 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:00:48:03 245 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:00:48:03 246 [Calc.java] [INFO] Calc [Natural Log] 14.0
+17/Mar/2021:00:48:03 246 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.6390573296152584
+17/Mar/2021:00:48:03 246 [Calc.java] [INFO] Calc [Natural Log] 9.0
+17/Mar/2021:00:48:03 247 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.1972245773362196
+17/Mar/2021:00:48:03 247 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:00:48:03 247 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:00:48:03 247 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:00:48:03 248 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:00:48:03 248 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:00:48:03 248 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:00:48:03 248 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:00:48:03 249 [Calc.java] [INFO] Calc [Power]2.0 and 3.0
+17/Mar/2021:00:48:03 249 [Calc.java] [INFO] Calc [Result-Power] : 8.0
+17/Mar/2021:00:48:03 249 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:00:48:03 250 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:00:48:03 250 [Calc.java] [INFO] Calc [Power]2.0 and 2.0
+17/Mar/2021:00:48:03 250 [Calc.java] [INFO] Calc [Result-Power] : 4.0
+17/Mar/2021:00:48:03 251 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:00:48:03 251 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:02:07:22 529 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:02:07:22 535 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:02:07:22 536 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:02:07:22 536 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:02:07:22 538 [Calc.java] [INFO] Calc [SqRoot]9.0
+17/Mar/2021:02:07:22 538 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.0
+17/Mar/2021:02:07:22 539 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:02:07:22 539 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:02:07:22 540 [Calc.java] [INFO] Calc [SqRoot]-10.0
+17/Mar/2021:02:07:22 540 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:02:07:22 541 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:02:07:22 542 [Calc.java] [INFO] Calc [Natural Log] 17.0
+17/Mar/2021:02:07:22 542 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.833213344056216
+17/Mar/2021:02:07:22 543 [Calc.java] [INFO] Calc [Natural Log] 6.0
+17/Mar/2021:02:07:22 543 [Calc.java] [INFO] Calc [Result-NaturalLog] : 1.791759469228055
+17/Mar/2021:02:07:22 543 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:02:07:22 544 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:02:07:22 544 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:02:07:22 545 [Calc.java] [INFO] Calc [SqRoot]10.0
+17/Mar/2021:02:07:22 545 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.1622776601683795
+17/Mar/2021:02:07:22 546 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:02:07:22 546 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:02:07:22 546 [Calc.java] [INFO] Calc [SqRoot]-16.0
+17/Mar/2021:02:07:22 547 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:02:07:22 547 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:02:07:22 548 [Calc.java] [INFO] Calc [Natural Log] 14.0
+17/Mar/2021:02:07:22 548 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.6390573296152584
+17/Mar/2021:02:07:22 549 [Calc.java] [INFO] Calc [Natural Log] 9.0
+17/Mar/2021:02:07:22 549 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.1972245773362196
+17/Mar/2021:02:07:22 549 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:02:07:22 550 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:02:07:22 550 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:02:07:22 551 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:02:07:22 551 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:02:07:22 551 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:02:07:22 552 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:02:07:22 553 [Calc.java] [INFO] Calc [Power]2.0 and 3.0
+17/Mar/2021:02:07:22 553 [Calc.java] [INFO] Calc [Result-Power] : 8.0
+17/Mar/2021:02:07:22 553 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:02:07:22 554 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:02:07:22 554 [Calc.java] [INFO] Calc [Power]2.0 and 2.0
+17/Mar/2021:02:07:22 555 [Calc.java] [INFO] Calc [Result-Power] : 4.0
+17/Mar/2021:02:07:22 555 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:02:07:22 556 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:02:09:21 753 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:02:09:21 759 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:02:09:21 759 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:02:09:21 760 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:02:09:21 761 [Calc.java] [INFO] Calc [SqRoot]9.0
+17/Mar/2021:02:09:21 762 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.0
+17/Mar/2021:02:09:21 762 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:02:09:21 763 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:02:09:21 764 [Calc.java] [INFO] Calc [SqRoot]-10.0
+17/Mar/2021:02:09:21 764 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:02:09:21 765 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:02:09:21 766 [Calc.java] [INFO] Calc [Natural Log] 17.0
+17/Mar/2021:02:09:21 766 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.833213344056216
+17/Mar/2021:02:09:21 767 [Calc.java] [INFO] Calc [Natural Log] 6.0
+17/Mar/2021:02:09:21 767 [Calc.java] [INFO] Calc [Result-NaturalLog] : 1.791759469228055
+17/Mar/2021:02:09:21 767 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:02:09:21 768 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:02:09:21 768 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:02:09:21 769 [Calc.java] [INFO] Calc [SqRoot]10.0
+17/Mar/2021:02:09:21 769 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.1622776601683795
+17/Mar/2021:02:09:21 770 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:02:09:21 770 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:02:09:21 770 [Calc.java] [INFO] Calc [SqRoot]-16.0
+17/Mar/2021:02:09:21 771 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:02:09:21 771 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:02:09:21 772 [Calc.java] [INFO] Calc [Natural Log] 14.0
+17/Mar/2021:02:09:21 773 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.6390573296152584
+17/Mar/2021:02:09:21 773 [Calc.java] [INFO] Calc [Natural Log] 9.0
+17/Mar/2021:02:09:21 774 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.1972245773362196
+17/Mar/2021:02:09:21 774 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:02:09:21 774 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:02:09:21 775 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:02:09:21 776 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:02:09:21 776 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:02:09:21 777 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:02:09:21 777 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:02:09:21 778 [Calc.java] [INFO] Calc [Power]2.0 and 3.0
+17/Mar/2021:02:09:21 779 [Calc.java] [INFO] Calc [Result-Power] : 8.0
+17/Mar/2021:02:09:21 779 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:02:09:21 779 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:02:09:21 780 [Calc.java] [INFO] Calc [Power]2.0 and 2.0
+17/Mar/2021:02:09:21 781 [Calc.java] [INFO] Calc [Result-Power] : 4.0
+17/Mar/2021:02:09:21 781 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:02:09:21 781 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:02:16:49 305 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:02:16:49 310 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:02:16:49 311 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:02:16:49 311 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:02:16:49 313 [Calc.java] [INFO] Calc [SqRoot]9.0
+17/Mar/2021:02:16:49 314 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.0
+17/Mar/2021:02:16:49 314 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:02:16:49 315 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:02:16:49 315 [Calc.java] [INFO] Calc [SqRoot]-10.0
+17/Mar/2021:02:16:49 316 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:02:16:49 316 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:02:16:49 317 [Calc.java] [INFO] Calc [Natural Log] 17.0
+17/Mar/2021:02:16:49 318 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.833213344056216
+17/Mar/2021:02:16:49 318 [Calc.java] [INFO] Calc [Natural Log] 6.0
+17/Mar/2021:02:16:49 318 [Calc.java] [INFO] Calc [Result-NaturalLog] : 1.791759469228055
+17/Mar/2021:02:16:49 319 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:02:16:49 319 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:02:16:49 320 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:02:16:49 320 [Calc.java] [INFO] Calc [SqRoot]10.0
+17/Mar/2021:02:16:49 321 [Calc.java] [INFO] Calc [Result-SqRoot] : 3.1622776601683795
+17/Mar/2021:02:16:49 321 [Calc.java] [INFO] Calc [SqRoot]16.0
+17/Mar/2021:02:16:49 322 [Calc.java] [INFO] Calc [Result-SqRoot] : 4.0
+17/Mar/2021:02:16:49 322 [Calc.java] [INFO] Calc [SqRoot]-16.0
+17/Mar/2021:02:16:49 322 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN squareRoot of < 0
+17/Mar/2021:02:16:49 323 [Calc.java] [INFO] Calc [Result-SqRoot] : NaN
+17/Mar/2021:02:16:49 324 [Calc.java] [INFO] Calc [Natural Log] 14.0
+17/Mar/2021:02:16:49 324 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.6390573296152584
+17/Mar/2021:02:16:49 325 [Calc.java] [INFO] Calc [Natural Log] 9.0
+17/Mar/2021:02:16:49 325 [Calc.java] [INFO] Calc [Result-NaturalLog] : 2.1972245773362196
+17/Mar/2021:02:16:49 326 [Calc.java] [INFO] Calc [Natural Log] 0.0
+17/Mar/2021:02:16:49 326 [Calc.java] [ERROR] Calc Number cannot be negative Case of NaN log of <= 0
+17/Mar/2021:02:16:49 327 [Calc.java] [INFO] Calc [Result-NaturalLog] : NaN
+17/Mar/2021:02:16:49 328 [Calc.java] [INFO] Calc [Factorial] 3.0
+17/Mar/2021:02:16:49 328 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 6.0
+17/Mar/2021:02:16:49 329 [Calc.java] [INFO] Calc [Factorial] 5.0
+17/Mar/2021:02:16:49 329 [Calc.java] [INFO] Calc [Result-Factorial] of factorial is: 120.0
+17/Mar/2021:02:16:49 330 [Calc.java] [INFO] Calc [Power]2.0 and 3.0
+17/Mar/2021:02:16:49 331 [Calc.java] [INFO] Calc [Result-Power] : 8.0
+17/Mar/2021:02:16:49 331 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:02:16:49 331 [Calc.java] [INFO] Calc [Result-Power] : 27.0
+17/Mar/2021:02:16:49 332 [Calc.java] [INFO] Calc [Power]2.0 and 2.0
+17/Mar/2021:02:16:49 332 [Calc.java] [INFO] Calc [Result-Power] : 4.0
+17/Mar/2021:02:16:49 333 [Calc.java] [INFO] Calc [Power]3.0 and 3.0
+17/Mar/2021:02:16:49 333 [Calc.java] [INFO] Calc [Result-Power] : 27.0
